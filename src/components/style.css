@@ -1,0 +1,113 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.ant-modal-body {
+    margin: 0px;
+}
+
+.ant-modal-content {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+#content1 {
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0c435a;  
+}
+
+#content2 {
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #858585;  
+}
+
+#content3 {
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;  
+}
+
+#content4 {
+    width: 125px;
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01b0d7;
+}
+
+#content5 {
+    font-weight: normal;
+    color: #858585;  
+}
+
+.ant-slider-handle {
+    width: 24px;
+    height: 24px;
+    margin-top: -10px;
+}
+
+#content6 {
+    font-size: 15px;
+    font-weight: bold;  
+    height: 48px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0c435a;  
+}
+
+#content7 {
+    height: 48px;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0c435a;  
+}
+
+.ant-modal-footer {
+    display: none;
+}
+
+.anticon {
+    transform: scaleX(-1);
+    width: 16px;
+    height: 16px;
+}
+
+#content8 {
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0c435a;  
+}
