@@ -191,8 +191,8 @@ class SpotAWheel extends React.Component {
                                             <p style={{marginBottom: '0px'}}>Μηνιαία</p>
                                             <p>Δόση</p>
                                         </Col>
-                                        <Col id='content3' span={8} style={{marginTop: '-10px'}}>
-                                            {this.state.moneySliderScore > 0 && this.state.monthsSliderScore > 1 &&
+                                        <Col id='content3' span={8} style={{marginTop: '-5px'}}>
+                                            {this.state.moneySliderScore > 0 && this.state.monthsSliderScore > 0 &&
                                             Math.round((20000 - this.state.moneySliderScore) / this.state.monthsSliderScore)
                                             }€
                                         </Col>
